@@ -1,0 +1,9 @@
+install openai
+install requests
+install BeautifulSoup
+install urllib
+install csv
+install json
+install time
+install dotenv
+install os
