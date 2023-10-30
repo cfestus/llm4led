@@ -16,15 +16,16 @@ This repository contains Python code for scraping data from LED (Listening Exper
    cd <repository-directory>
 
 2. **Install Dependencies**:
-pip install -r requirements.txt.
+   ```bash
+   pip install -r requirements.txt.
 
-3. **API Configuration**:
-Create a .env file in the root directory and add your OpenAI API key.
-OPENAI_API_KEY="your_api_key_here"
+4. **API Configuration**:
+Create a .env file in the root directory and add your OpenAI API key, that is your GPT-4 API.
+   ```bash
+   OPENAI_API_KEY="your_api_key_here"
 
-4. **Usage**:
+5. **Usage**:
 Once you have completed the setup, run the main script to generate annotations.
-main.py
+   ```bash
+   run main.py
 
-## Acknowledgments
-Thanks to OpenAI for providing the GPT-4 API.
