@@ -24,7 +24,7 @@ OPENAI_API_KEY="your_api_key_here"
 
 4. **Usage**:
 Once you have completed the setup, run the main script to generate annotations.
-python llm4led_annotation.py
+main.py
 
 ## Acknowledgments
 Thanks to OpenAI for providing the GPT-4 API.
